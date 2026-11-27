@@ -4,6 +4,7 @@
 
 - 🔭 Building **SEO Studio** — an SEO + GEO audit platform and Chrome extension.
 - 🏨 Focus: hotel & hospitality SEO, schema/structured data, multi-CMS (WordPress · Shopify · Webflow).
+-  🌐 Portfolio: https://www.linkedin.com/in/nurunnobe/
 - 🌐 Portfolio: [fiverr.com/nurunnobejisan](https://www.fiverr.com/nurunnobejisan)
 - 💬 X: [@nurunnobejisan](https://twitter.com/nurunnobejisan)
 
