@@ -14,8 +14,7 @@ jobs:
       - name: Update README with latest dev.to posts
         uses: gautamkrishna/blog-post-workflow@v3.4.0
         with:
-          # TODO(author): replace with your real dev.to feed URL, e.g.
-          #   https://dev.to/devmahdi/feed
+          # TODO(author): replace with your real dev.to feed URL when ready
           FEED_URL: "https://dev.to/TODO-author/feed"
           MAX_POSTS: "3"
           TEMPLATE: "- [$title]($url) — $date"

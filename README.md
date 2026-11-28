@@ -59,10 +59,8 @@ Three flagship projects — open tools for building and evaluating AI that works
 
 ## 📬 Contact
 
-- Email: TODO-author-email
-- LinkedIn: TODO-author-linkedin
-- dev.to: https://dev.to/TODO-author/feed
-- Fiverr: TODO-fiverr-url
+- Fiverr: https://www.fiverr.com/nurunnobejisan
+- (Email, LinkedIn and dev.to links will be added when provided.)
 
 Open to contributors from Bangladesh — বাংলায় issue খুলতে পারেন.
 

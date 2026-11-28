@@ -3,18 +3,10 @@
 ## 1. GitHub bio (≤ 160 characters)
 
 ```
-Building open AI infrastructure from Bangladesh 🇧🇩 · Bangla/Banglish NLP · AI agents · AWS serverless · M.Sc. @ Universität Koblenz '27
+Building open AI infrastructure from Bangladesh 🇧🇩 · Bangla/Banglish NLP · AI agents · Flutter · Dart
 ```
 
-Character count: 137.
-
-Shorter alternative (if you want breathing room):
-
-```
-Open AI infrastructure from Bangladesh 🇧🇩 · Bangla/Banglish NLP · AI agents · AWS serverless
-```
-
-Character count: 92.
+Character count: 96.
 
 ## 2. Location
 
@@ -26,30 +18,27 @@ Dhaka, Bangladesh
 
 1. **BanglaTau** — https://github.com/nurunnobejisan/BanglaTau
    *The first Bangla/Banglish τ-bench for tool-calling customer-service agents*
-2. **lambda-afterwork** — https://github.com/nurunnobejisan/lambda-afterwork
-   *Run work after your AWS Lambda response + a linter for lost background tasks*
-3. **niyom** — https://github.com/nurunnobejisan/niyom
+2. **Niyom (নিয়ম)** — https://github.com/nurunnobejisan/niyom
    *Bangladesh Bank circulars as a time-aware knowledge graph + MCP server*
-4. Your existing repo **C-**
-5. Two more of your choice (best current stars/activity)
+3. **Coming soon** — third slot (Flutter/Dart project or lambda-afterwork)
+4. Your best Flutter/Dart repos (add when ready)
 
 ## 4. Account settings checklist
 
 - [ ] **Settings → Profile → Bio**: paste the bio from §1
 - [ ] **Settings → Profile → Location**: `Dhaka, Bangladesh`
 - [ ] **Settings → Profile → Company**: leave blank or your own (never your employer's clients)
-- [ ] **Settings → Profile → Website**: add your LinkedIn or dev.to
-- [ ] **Settings → Account → Email → Keep my email addresses private**: OFF if you want commits to show your email; ON if you prefer the noreply address
-- [ ] **Settings → Emails → Add email**: use the address you want commit notifications sent to, then set it as **Primary**
-- [ ] **Settings → Emails → Keep my email addresses private**: choose per your preference (uncheck to show your email on commits)
+- [ ] **Settings → Profile → Website**: https://seo-studio-one.vercel.app (or your own)
+- [ ] **Settings → Emails → Keep my email addresses private**: choose per your preference
 - [ ] **Settings → Profile → Show public profiles**: ON (required for the profile README + stats cards to render for visitors)
-- [ ] **Contributions → Settings → Profile → "Include private contributions"**: ON (shows your private-repo work in the contribution graph without revealing the repos)
-- [ ] **Settings → Appearance**: pick a theme; the README stats cards are hardcoded to `github-dark` — switch them to `theme=` matching your default if you prefer light
-- [ ] **Repositories → nurunnobejisan/nurunnobejisan → About**: description = `Building open AI infrastructure from Bangladesh 🇧🇩`, topics = `profile`, `readme`, `bangla`, `bengali`, `llm-agents`
-- [ ] **Repositories → pin order**: as in §3 (Profile → Customize pins)
-- [ ] **Notifications → Weekly**: optional — turn off the "highlight" digest if it's noise
+- [ ] **Contributions → Settings → Profile → "Include private contributions"**: ON
+- [ ] **Settings → Appearance**: pick a theme; the README stats cards are hardcoded to `github-dark`
+- [ ] **Repositories → nurunnobejisan/nurunnobejisan → About**: description = `Building open AI infrastructure from Bangladesh 🇧🇩`, topics = `profile`, `readme`, `bangla`, `bengali`, `llm-agents`, `flutter`, `dart`
+- [ ] **Repositories → pin order**: as in §3
 
-## 5. Two placeholders to fill before pushing
+## 5. Placeholders to fill before pushing (hidden until provided)
 
-1. `.github/workflows/blog-post.yml` → `FEED_URL` — your real dev.to feed (`https://dev.to/<username>/feed`)
-2. `README.md` → Contact section: LinkedIn URL + email address (currently `TODO-author-linkedin` and `TODO-author-email@example.com`)
+- Email: (hidden — provide when ready)
+- LinkedIn: (hidden — provide when ready)
+- dev.to feed URL: (hidden — provide when ready)
+- Fiverr: https://www.fiverr.com/nurunnobejisan
