@@ -59,8 +59,11 @@ Three flagship projects — open tools for building and evaluating AI that works
 
 ## 📬 Contact
 
-- Fiverr: https://www.fiverr.com/nurunnobejisan
-- (Email, LinkedIn and dev.to links will be added when provided.)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurunnobe/)
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://twitter.com/nurunnobejisan)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/nurunnobejisan)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/nurunnobejisan/)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?logo=fiverr&logoColor=white)](https://www.fiverr.com/nurunnobejisan)
 
 Open to contributors from Bangladesh — বাংলায় issue খুলতে পারেন.
 

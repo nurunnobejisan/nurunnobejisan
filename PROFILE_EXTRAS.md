@@ -28,7 +28,7 @@ Dhaka, Bangladesh
 - [ ] **Settings → Profile → Bio**: paste the bio from §1
 - [ ] **Settings → Profile → Location**: `Dhaka, Bangladesh`
 - [ ] **Settings → Profile → Company**: leave blank or your own (never your employer's clients)
-- [ ] **Settings → Profile → Website**: https://seo-studio-one.vercel.app (or your own)
+- [ ] **Settings → Profile → Website**: (leave blank until provided)
 - [ ] **Settings → Emails → Keep my email addresses private**: choose per your preference
 - [ ] **Settings → Profile → Show public profiles**: ON (required for the profile README + stats cards to render for visitors)
 - [ ] **Contributions → Settings → Profile → "Include private contributions"**: ON

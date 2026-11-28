@@ -1,8 +1,9 @@
 name: Latest blog post
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
+  # schedule disabled until a real dev.to feed URL is provided
+  # schedule:
+  #   - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
