@@ -1,7 +1,7 @@
 <h1 align="center">Nurunnobe Jisan</h1>
 
 <p align="center">
-  <b>Building open AI infrastructure from Bangladesh 🇧🇩</b>
+  <b>Flutter dev building open AI infrastructure from Bangladesh 🇧🇩</b>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Backend/ML Engineer · Dhaka, Bangladesh · Multi-tenant RAG &amp; AI agents · Bangla/Banglish NLP · AWS serverless
+  Flutter developer and digital marketer · [CITY], Bangladesh · helped 60+ businesses grow and monetize digitally
 </p>
 
 ---
@@ -20,29 +20,27 @@ Three flagship projects — open tools for building and evaluating AI that works
 
 | Project | What it is | Status | Link |
 | --- | --- | --- | --- |
-| **lambda-afterwork** | Run work safely after your AWS Lambda response is sent, plus a linter that catches lost background tasks | ![planned](https://img.shields.io/badge/status-planned-blue) | [nurunnobejisan/lambda-afterwork](https://github.com/nurunnobejisan/lambda-afterwork) |
 | **BanglaTau** | The first τ-bench-style benchmark for tool-calling customer-service agents that speak Bangla and Banglish | ![alpha](https://img.shields.io/badge/status-alpha-yellow) | [nurunnobejisan/BanglaTau](https://github.com/nurunnobejisan/BanglaTau) |
 | **Niyom (নিয়ম)** | Bangladesh Bank circulars as a time-aware knowledge graph with search, API, and MCP server | ![alpha](https://img.shields.io/badge/status-alpha-yellow) | [nurunnobejisan/niyom](https://github.com/nurunnobejisan/niyom) |
+| **Coming soon** | Third slot — to be decided (Flutter/Dart project or lambda-afterwork) | ![planned](https://img.shields.io/badge/status-planned-blue) | — |
 
 ---
 
 ## 📍 Now
 
 - **Building:** the Bangla AI Stack — a policy-bound, database-grounded benchmark for Banglish agents (BanglaTau) and an amendment-aware knowledge graph of Bangladesh Bank circulars (Niyom).
-- **Learning:** M.Sc. in Web and Data Science, Universität Koblenz (Summer Semester 2027) — with a focus on low-resource NLP and agent evaluation.
+- **Learning:** Python research tooling (packaging, LiteLLM, pytest) — I come from Dart/Flutter.
 - **Looking to collaborate on:** Bangla NLP datasets, agent benchmarks, and contributors from Bangladesh 🇧🇩 — বাংলায় issue খুলতে পারেন।
 
 ---
 
 ## 🛠 Stack
 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=amazonaws&logoColor=black)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-1C1C1C?logo=pinecone&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
 
 ---
 
@@ -59,25 +57,15 @@ Three flagship projects — open tools for building and evaluating AI that works
 
 ---
 
-## ✍️ Latest posts
-
-<!-- Posts are auto-updated from dev.to by .github/workflows/blog-post.yml -->
-<!-- TODO(author): replace the placeholder URL below with your real dev.to feed URL -->
-<!-- Feed URL placeholder: https://dev.to/devmahdi/feed -->
-- _Add your dev.to feed URL in `.github/workflows/blog-post.yml` and posts will appear here automatically._
-
----
-
 ## 📬 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TODO-author-linkedin)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:TODO-author-email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-nurunnobejisan-181717?logo=github&logoColor=white)](https://github.com/nurunnobejisan)
+- Email: TODO-author-email
+- LinkedIn: TODO-author-linkedin
+- dev.to: https://dev.to/TODO-author/feed
+- Fiverr: TODO-fiverr-url
 
-**Open to contributors from Bangladesh — বাংলায় issue খুলতে পারেন।**
+Open to contributors from Bangladesh — বাংলায় issue খুলতে পারেন.
 
 ---
 
-<p align="center">
-  Built with ❤️ in Dhaka, Bangladesh 🇧🇩 · by <a href="https://github.com/nurunnobejisan">Nurunnobe Jisan</a> · part of the <b>Bangla AI Stack</b> series
-</p>
+Built with ❤️ in Bangladesh 🇧🇩 · by [Nurunnobe Jisan](https://github.com/nurunnobejisan) · part of the **Bangla AI Stack** series.
