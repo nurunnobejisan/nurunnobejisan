@@ -1,0 +1,22 @@
+name: Latest blog post
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update README with latest dev.to posts
+        uses: gautamkrishna/blog-post-workflow@v3.4.0
+        with:
+          # TODO(author): replace with your real dev.to feed URL, e.g.
+          #   https://dev.to/devmahdi/feed
+          FEED_URL: "https://dev.to/TODO-author/feed"
+          MAX_POSTS: "3"
+          TEMPLATE: "- [$title]($url) — $date"
+          COMMIT_MSG: "chore: update latest blog posts"

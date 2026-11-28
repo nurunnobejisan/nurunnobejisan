@@ -1,45 +1,83 @@
-<div align="center">
+<h1 align="center">Nurunnobe Jisan</h1>
 
-# Nurunnobe Jisan
+<p align="center">
+  <b>Building open AI infrastructure from Bangladesh 🇧🇩</b>
+</p>
 
-**SEO & GEO Engineer: I build tools for technical SEO and AI-search visibility, and I use them for hotels and businesses.**
+<p align="center">
+  বাংলাদেশের জন্য, বাংলাদেশ থেকে — open-source AI
+</p>
 
-SEO Studio audits a live site across 11 dimensions — technical health, crawlability, schema, GEO readiness — and exports client-ready HTML, PDF, CSV, or PPTX reports, with every number labeled measured, estimated, or unavailable.
-
-[LinkedIn](https://www.linkedin.com/in/nurunnobe/) · [Fiverr](https://www.fiverr.com/nurunnobejisan) · [X](https://x.com/nurunnobejisan) · [Website](https://seo-studio-one.vercel.app)
-
-</div>
+<p align="center">
+  Backend/ML Engineer · Dhaka, Bangladesh · Multi-tenant RAG &amp; AI agents · Bangla/Banglish NLP · AWS serverless
+</p>
 
 ---
 
-## Projects
+## 🇧🇩 Bangla AI Stack
 
-| Project | Problem it solves | Live demo | Built with |
+Three flagship projects — open tools for building and evaluating AI that works in Bangla and Banglish.
+
+| Project | What it is | Status | Link |
 | --- | --- | --- | --- |
-| [SEO Studio](https://github.com/nurunnobejisan/SEO-Studio) | Audits any URL in 11 dimensions (technical SEO, schema, GEO readiness) and exports client-ready reports. No number appears unless it was measured. | [seo-studio-one.vercel.app](https://seo-studio-one.vercel.app) | <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> |
-| [repo-pulse-api](https://github.com/nurunnobejisan/repo-pulse-api) | GitHub App that verifies webhooks with HMAC and serves repository pulse metrics through short-lived installation tokens — no long-lived credentials. | — | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> |
-| [SEO Visibility Report](https://github.com/nurunnobejisan/seo-visibility-report) | Turns crawl data and keyword workbooks into a client-ready SEO visibility deck (PPTX, PDF) plus a web report. | [seo-vercel-rho.vercel.app](https://seo-vercel-rho.vercel.app) | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" /> |
+| **lambda-afterwork** | Run work safely after your AWS Lambda response is sent, plus a linter that catches lost background tasks | ![planned](https://img.shields.io/badge/status-planned-blue) | [nurunnobejisan/lambda-afterwork](https://github.com/nurunnobejisan/lambda-afterwork) |
+| **BanglaTau** | The first τ-bench-style benchmark for tool-calling customer-service agents that speak Bangla and Banglish | ![alpha](https://img.shields.io/badge/status-alpha-yellow) | [nurunnobejisan/BanglaTau](https://github.com/nurunnobejisan/BanglaTau) |
+| **Niyom (নিয়ম)** | Bangladesh Bank circulars as a time-aware knowledge graph with search, API, and MCP server | ![alpha](https://img.shields.io/badge/status-alpha-yellow) | [nurunnobejisan/niyom](https://github.com/nurunnobejisan/niyom) |
 
 ---
 
-## Services
+## 📍 Now
 
-- **Technical SEO & Schema** — crawlability, JSON-LD, heading hierarchy, and metadata audits with prioritized fixes (SEO Studio).
-- **GEO / AI-search visibility** — GEO readiness scoring from structured data, answer coverage, and entity signals (SEO Studio).
-- **Hotel & hospitality SEO** — hospitality-specific audit templates and client-ready reporting for properties and groups (SEO Studio).
-
----
-
-## Stack
-
-Flutter · React · Gatsby · Chrome Extension (MV3) · Supabase · GitHub Actions
+- **Building:** the Bangla AI Stack — a policy-bound, database-grounded benchmark for Banglish agents (BanglaTau) and an amendment-aware knowledge graph of Bangladesh Bank circulars (Niyom).
+- **Learning:** M.Sc. in Web and Data Science, Universität Koblenz (Summer Semester 2027) — with a focus on low-resource NLP and agent evaluation.
+- **Looking to collaborate on:** Bangla NLP datasets, agent benchmarks, and contributors from Bangladesh 🇧🇩 — বাংলায় issue খুলতে পারেন।
 
 ---
 
-## Activity
+## 🛠 Stack
 
-<img src="metrics/metrics.svg" alt="GitHub contribution metrics" />
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?logo=amazonaws&logoColor=black)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1C1C1C?logo=pinecone&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
 
 ---
 
-Currently building [SEO Studio](https://github.com/nurunnobejisan/SEO-Studio).
+## 📊 Stats
+
+<p align="center">
+  <a href="https://github.com/nurunnobejisan">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=nurunnobejisan&show_icons=true&theme=github-dark&hide_border=true&rank_icon=github" alt="nurunnobejisan's GitHub stats" />
+  </a>
+  <a href="https://github.com/nurunnobejisan">
+    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=nurunnobejisan&theme=github-dark&hide_border=true" alt="nurunnobejisan's streak" />
+  </a>
+</p>
+
+---
+
+## ✍️ Latest posts
+
+<!-- Posts are auto-updated from dev.to by .github/workflows/blog-post.yml -->
+<!-- TODO(author): replace the placeholder URL below with your real dev.to feed URL -->
+<!-- Feed URL placeholder: https://dev.to/devmahdi/feed -->
+- _Add your dev.to feed URL in `.github/workflows/blog-post.yml` and posts will appear here automatically._
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TODO-author-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:TODO-author-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-nurunnobejisan-181717?logo=github&logoColor=white)](https://github.com/nurunnobejisan)
+
+**Open to contributors from Bangladesh — বাংলায় issue খুলতে পারেন।**
+
+---
+
+<p align="center">
+  Built with ❤️ in Dhaka, Bangladesh 🇧🇩 · by <a href="https://github.com/nurunnobejisan">Nurunnobe Jisan</a> · part of the <b>Bangla AI Stack</b> series
+</p>
